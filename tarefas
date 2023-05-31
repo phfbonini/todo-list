@@ -1,0 +1,25 @@
+//1-criar com npm init -y
+
+//2-dar um npm i -D nodemon para instalar
+
+//3-colocar os script no package.json (passar "start": 
+    //- "node index.js",
+    //- "dev": "nodemon index.js")
+
+//npm i prisma (instala o prisma)
+
+//4-npx prisma init (cria as configurações padrao do prisma)
+
+//5-passar para sqlite e em env colocar DATABASE_URL="file:../data.db"
+
+//6-criar tabelas 
+
+//7-npx prisma migrate dev
+
+//8-Fazer paramtros das rotas
+
+//9-utilizar zod
+
+//npm i bcrypt
+
+//npm i jsonwebtoken
